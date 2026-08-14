@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Humara private data aur backups GitHub par nahi jana chahiye!
+my_contacts_app/
+*.json
+
+# OS generated files
+.DS_Store
